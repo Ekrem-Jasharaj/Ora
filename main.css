@@ -1,0 +1,30 @@
+body {
+  background-color: red;
+}
+
+#continerDiv {
+ height: 500px;
+ background-image: url("ora1r.png");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ position: relative;   
+}
+
+#HH {
+ height: 100px;
+ background-image: url("hhnbg.png");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ position: relative;   
+}
+
+#MH {
+ height: 200px;
+ background-image: url("mhnbg.png");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ position: relative;   
+}
